@@ -1,1 +1,1 @@
-# Task-Schedular-Node-
+This Node.js application is designed to automate and schedule tasks. It allows users to define tasks and set schedules for their execution, making it easier to manage repetitive and time-based tasks efficiently.
