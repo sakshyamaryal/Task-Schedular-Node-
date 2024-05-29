@@ -2,7 +2,8 @@ const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
 // require("./schedular1.js");
-require("./schedular2.js");
+// require("./schedular2.js");
+require("./schedular3.js");
 
 app.use(express.json());
 
